@@ -41,13 +41,71 @@
 | different environments, working better| The different environments can help you working better while accessing the internet. |
 | snacks and drinks, stay energized| You can have snacks and drinks. It's help you stay energized while accessing the internet. |
 
-
-|  | |
+|||
 |------|--------|
-| No | I think accessing the internet in a cafe is good idea.|
-| scroll down social media, enjoying my drink | I can scroll down social media while enjoying my drink.|
+| No | I think accessing the internet in a cafe is not good idea.|
+| noisy, hard to focus | The cafes usually noisy. It can make you hard to focus.|
+| Public Wifi is not safe, stolen | Public Wifi is not always safe, and your information can be stolen.|
+| Less privacy, see your screen, hear your conversations | Working in the cafes mean less privacy. People around you can see your screen and hear your conversations. |
+| become expensive | Buying snacks and drinks can become expensive. |
 
-### Qs 6:
+### Qs 7:
 ❓ Which of the following do you think internet is best to use for? Why?
+* Reading social issues
+* Playing free games
+* Taking classes
 
+|||
+|------|--------|
+| Reading social issues | My chosse is reading social issues, because of the following reason:|
+| a wide range of information, various of social issues, learn a lot | Firstly, the internet provide a wide range of information on various of social issues. |
+| learn about important topics, affect society | Secondly, you can learn about important topics that affect society |
+| share you views, learn from others | Finally, you can join some online disscussinon to share your views and learn from others. |
+
+|||
+|------|--------|
+| Playing free games | My chosse is playing free games, because of the following reason:|
+| relax | Firstly, games are great way to relax. |
+| better at solving problems | Secondly, some games can help you be better at solving problems. |
+| expand relationships | Finally, many online game can help you expand your relationships by connecting you with other players around the word. |
+
+|||
+|------|--------|
+| Taking classes | My chosse is Taking classes, because of the following reason:|
+| a wide range of courses, learn a lot | Firstly, the internet can provide a wide range of courses. It can help you learn a lot. |
+| online class, flexible study times | Secondly, the online classes have flexible study times. |
+| Gaining new knowledge, new job opportunities | Finally, Gaining new knowledge can help you get a new job opportunities. |
+
+
+### Qs 8:
+❓ What time is the closing speech? What is the name of the speaker?
+
+`Yes sure.` The closing speech start from 2pm to 3pm, and the speaker is Kevin Smith, the conference director.
+
+### Qs 9:
+❓ I need about 10 minutes in the morning to make an important phone call? Do you think I'll be able to do that?
+
+`Don't worry,` there will be 15 minutes for break time starting at 10am.
+
+### Qs 10: 
+❓ I'm actually attending the conference to learn about using movie stars in promotions. Can you give me all the details about sessions that talk about movie stars?
+
+`There are 2 things`
+
+`Firstly,` `from` 9:15 to 10 am, `there will be a` workshop. `It's about` Using movie starts in advertising.
+
+`Secondly,` `from` 1 to 2pm, `there will be a` video. `It's about` successful commercials with movie stars.
+
+### Qs 11:
+❓ What are the advantages of having team leaders who make working environment fun for team workers?
+
+`I think` having team leaders who can make working environment fun `brings several benefits.`
+
+`Firstly,` 
+
+`Secondly,`
+
+`For examples, in my company,` 
+
+`For those reasons, I believe` 
 
