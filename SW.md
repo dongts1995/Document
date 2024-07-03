@@ -101,11 +101,17 @@
 
 `I think` having team leaders who can make working environment fun `brings several benefits.`
 
-`Firstly,` 
+> working atmosphere , relaxed -> interested in their work
 
-`Secondly,`
+`Firstly,` It makes the working atmosphere more relaxed, helping everyone become more interested in their work.
 
-`For examples, in my company,` 
+> improve relationships -> work more productive
 
-`For those reasons, I believe` 
+`Secondly,` It helps improve relationships among colleagues, thus making work more productive.
+
+> didn't have connections -> regular team-building activities -> closer, collaborates more efffectively
+
+`For examples, in my company,` previously people didn't have connections. Since the team leader started organizing regular team-building activities, everyone has become closer and collaborates more effectively.
+
+`For those reasons, I believe` work becomes more effective if there is such a team leader.
 
