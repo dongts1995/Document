@@ -76,7 +76,7 @@
 | online class, flexible study times | Secondly, the online classes have flexible study times. |
 | Gaining new knowledge, new job opportunities | Finally, Gaining new knowledge can help you get a new job opportunities. |
 
-
+## Part 4:
 ### Qs 8:
 ❓ What time is the closing speech? What is the name of the speaker?
 
@@ -96,6 +96,8 @@
 
 `Secondly,` `from` 1 to 2pm, `there will be a` video. `It's about` successful commercials with movie stars.
 
+## Part 5:
+
 ### Qs 11:
 ❓ What are the advantages of having team leaders who make working environment fun for team workers?
 
@@ -114,4 +116,34 @@
 `For examples, in my company,` previously people didn't have connections. Since the team leader started organizing regular team-building activities, everyone has become closer and collaborates more effectively.
 
 `For those reasons, I believe` work becomes more effective if there is such a team leader.
+
+
+# Practice Test 1
+## Part 2:
+### Qs 3:
+![image](https://github.com/dongts1995/Document/assets/87682686/debd8919-5dbb-4cdc-9282-f2e0eddff762)
+### Qs 4:
+![image](https://github.com/dongts1995/Document/assets/87682686/4da799fb-c41f-41a2-81db-eed2324281fc)
+## Part 3:
+### Qs 5:
+❓ What do you most often use when accessing the internet, and how long do you usually spent time using the internet every day
+### Qs 6:
+❓ Do you think it is a good idea to access the internet in a café? Why or why not?
+### Qs 7:
+❓ Which of the following do you think internet is best to use for? Why?
+* Reading social issues
+* Playing free games
+* Taking classes
+## Part 4:
+![image](https://github.com/dongts1995/Document/assets/87682686/a239f859-c776-4fe7-b856-63a791a34557)
+
+### Qs 8:
+❓ What time is the closing speech? What is the name of the speaker?
+### Qs 9:
+❓ I need about 10 minutes in the morning to make an important phone call? Do you think I'll be able to do that?
+### Qs 10:
+❓ I'm actually attending the conference to learn about using movie stars in promotions. Can you give me all the details about sessions that talk about movie stars?
+## Part 5:
+### Qs 11:
+❓ What are the advantages of having team leaders who make working environment fun for team workers?
 
