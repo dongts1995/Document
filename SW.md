@@ -138,7 +138,7 @@ and plans for her next performance.
 ### Qs 8:
 ❓ What time is the closing speech? What is the name of the speaker?
 
-`Yes sure.` The closing speech start from 2pm to 3pm, and the speaker is Kevin Smith, the conference director.
+`Yes sure.` The closing speech start at 2pm and end at 3pm, and the speaker is Kevin Smith, the conference director.
 
 ### Qs 9:
 ❓ I need about 10 minutes in the morning to make an important phone call? Do you think I'll be able to do that?
@@ -161,19 +161,21 @@ and plans for her next performance.
 
 `I think` having team leaders who can make working environment fun `brings several benefits.`
 
-> working atmosphere , relaxed -> interested in their work
+> -working atmosphere - relaxed => TM - interested in their work
 
-`Firstly,` It makes the working atmosphere more relaxed, helping everyone become more interested in their work.
+`Firstly,` It makes the working atmosphere more relaxed, and team members will be more interested in their work.
 
-> improve relationships -> work more productive
+> -improve relationships => -work more productive
 
 `Secondly,` It helps improve relationships among colleagues, thus making work more productive.
 
-> didn't have connections -> regular team-building activities -> closer, collaborates more efffectively
+> didn't have connections -> team's work, not effective -> organizing regular team-building activities -> closer, collaborates more efffectively -> performance - increased
 
-`For examples, in my company,` previously people didn't have connections. Since the team leader started organizing regular team-building activities, everyone has become closer and collaborates more effectively.
+`For examples, in my company,` previously people didn't have connections, so the team's work was not effective. 
+Since the team leader started organizing regular team-building activities, 
+everyone has become closer and collaborates more effectively, thus performance is increased.
 
-`For those reasons, I believe` work becomes more effective if there is such a team leader.
+`For those reasons, I believe` work becomes more effective if there are such a team leaders.
 
 
 
