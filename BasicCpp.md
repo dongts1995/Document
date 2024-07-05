@@ -44,11 +44,89 @@ int* ptr = &a; // Points to a valid memory address
 std::unique_ptr<int> smartPtr = std::make_unique<int>(10);
 ```
 
+### RAII (SBRM)
+Resource Acquisition Is Initialization or RAII is a C++ programming technique which binds the life cycle of a resource to the lifetime of an ofject.
+
+Resource examples: allocated heap memory, thread of excution, open file, locked mutex, ...
+
+RAII guarantees that:
+* the resource is availabe to any function that may access the object
+* All resources are released.
+
+Self implement RAII: Encapsulate each resource into a class
+* The constructor acquires the resource and estalished all class invariants oe throws an expection if that cannot be done
+* The destructor releases the resource and never throws exceptions
+
+Using RAII-classes:
+
+`std::string`
+
+`std::vector`
+
+`std::jthread (C++20)`
+
+`std::unique_ptr` `shared_ptr` through   `std::mak_unique` `std::make_shared`
+
+`std::lock_guard` `std::unique_lock` `std::shared_lock`
+
+❓ Can I throw an exception from a constructor? From a destructor? -> Yes
 
 
+### std::optional
 
+`std::optional` is a feature that provide a way to represent a null value.
 
+Examples:
+```cpp
+std::optional<int> charToInt(char c) {
+    if (c >= '0' && c <= '9') {
+        return static_cast<int>(c - '0');
+    } else {
+        return std::nullopt;
+    }
+}
 
+int main() {
+    char inputChar;
+    std::cin >> inputChar;
+
+    auto result = charToInt(inputChar);
+    if (result.has_value()) {
+        std::cout << result.value() << std::endl;
+    } else {
+        std::cout << "null" << std::endl;
+    }
+
+    return 0;
+}
+
+```
+or:
+```cpp
+std::optional<int> optValue = /* some optional value */;
+
+// Sử dụng value_or() để tránh ngoại lệ khi không có giá trị
+int result = optValue.value_or(0); // Nếu optValue rỗng, result sẽ là 0
+
+std::optional<int> charToInt(char c) {
+    if (c >= '0' && c <= '9') {
+        return static_cast<int>(c - '0');
+    } else {
+        return std::nullopt;
+    }
+}
+
+int main() {
+    char inputChar;
+    std::cin >> inputChar;
+
+    auto result = charToInt(inputChar);
+    std::cout << result.value(-1) << std::endl;
+
+    return 0;
+}
+
+```
 
 
 
