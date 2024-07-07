@@ -1,4 +1,58 @@
-# Practice Test 2
+# Test 2
+> src: [Test 2](https://www.youtube.com/watch?v=5Pdo_fuHfJg&list=PLLfvb_squPvhvzuFQ1XtUCDXJnVSK-hzx&index=2)
+
+## Part 1:
+### Qs 1:
+If you haven't yet ridden on Edison
+City's brand new commuter train, you
+should give it a try!
+with comfortable seating, foldout writing
+trays, and individual lights,
+the commuter train is the clear choice
+for the business commuter who wants to
+get some work done while traveling.
+So make your commute more productive -
+replace your drive with Addison City's
+commuter train.
+### Qs 2:
+Good morning and let me be the first to
+welcome you to your new jobs at Baxter
+Industries. You've already received our
+employee handbook which describes our
+company hours, paid holidays, and employee
+benefits. Now, if you'll look at the back of the
+handbook, you'll find copies of some
+forms that we'd like you to fill out.
+
+## Part 2:
+### Qs 3:
+![image](https://github.com/dongts1995/Document/assets/87682686/1df03095-effb-42c2-9214-9bd2738bd06e)
+
+### Qs 4:
+![image](https://github.com/dongts1995/Document/assets/87682686/ecc0a767-69c5-4311-8c33-7cce74cad74b)
+
+## Part 3:
+### Qs 5:
+How many grocery stores are in your neighborhood, and can you walk to them?
+### Qs 6:
+What's the best time of day to go to the grocery store, and why?
+### Qs 7:
+Do you usually buy all your groceries from the same store? Why and why not?
+## Part 4:
+### Qs 8:
+I have to work late that evening, so I won't arrive util 7. What am I going to miss?
+### Qs 9:
+I heard that the guest speaker's going to talk about raising money for building renovations. Is that right?
+### Qs 10:
+What is scheduled to take place after the guest speaker?
+
+![image](https://github.com/dongts1995/Document/assets/87682686/c6eb02aa-ca85-4851-9600-1eff9b17b7ae)
+
+## Part 5:
+### Qs 11:
+Do you agree or disagree with the following statement?
+
+Face to face communication is better than other types of communication, such as letters, email or telephone calls.
 
 # Practice Test 1
 ## Part 1:
