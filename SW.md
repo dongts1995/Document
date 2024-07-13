@@ -6,7 +6,7 @@
 If you haven't yet ridden on Edison
 City's brand new commuter train, you
 should give it a try!
-with comfortable seating, foldout writing
+With comfortable seating, foldout writing
 trays, and individual lights,
 the commuter train is the clear choice
 for the business commuter who wants to
@@ -53,6 +53,20 @@ What is scheduled to take place after the guest speaker?
 Do you agree or disagree with the following statement?
 
 Face to face communication is better than other types of communication, such as letters, email or telephone calls.
+
+# My solution for Test 2:
+## Part 2:
+conner of the street - summer
+
+many pp - sitting arround 2 tables
+
+- eating food , enjoying their moment
+
+bg, many cars parking on both side of the street
+
+Also, building, trafic signal, ..
+
+
 
 # Practice Test 1
 ## Part 1:
