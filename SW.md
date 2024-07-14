@@ -56,15 +56,34 @@ Face to face communication is better than other types of communication, such as 
 
 # My solution for Test 2:
 ## Part 2:
+### Qs: 3
 conner of the street - summer
 
 many pp - sitting arround 2 tables
 
-- eating food , enjoying their moment
+they - eating food , enjoying their moment
 
-bg, many cars parking on both side of the street
+bg, many cars are parked on both side of the street
 
 Also, building, trafic signal, ..
+### Qs: 4
+conner of the street - winter
+
+many pp - walking across the street
+
+Some - carring shopping bags 
+
+bg, building, bus station, ..
+
+busy day
+## Part 3:
+### Qs 5:
+2 - I can walk to both of them
+### Qs 6:
+morning , this is not busy time
+### Qs 7: 
+No, diverse shopping exprience, find the best deals and produces 
+
 
 
 
