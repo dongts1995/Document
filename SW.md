@@ -1,3 +1,120 @@
+ʃ θ ʊ ʊ̈ ʌ ʒ æ ɑ ð ə ɛ ɜ ɪ ɪ̈ ŋ ɔ ɒ æ ː ˌ ˈ
+
+# Test 3:
+> src [Test 3](https://www.youtube.com/watch?v=7Xe19i0_ed4&list=PLLfvb_squPvhvzuFQ1XtUCDXJnVSK-hzx&index=4)
+
+### Qs1:
+Michelle Jackson, the author of The Blue Window, will discuss on how important it is to express your feelings.
+Fist of all, she will demonstrate the biggest things that make people feel down or depressed.
+Then, she will guide you to learn how to boost up the confidence.
+Her words will help you define what hope, inspiration, and love bring to us in our lives.
+
+Michelle: `/mɪ'ʃel/`
+author `/ˈɔːθər/`
+demonstrate `/ˈdemənstreɪt/`
+depressed `/dɪˈprest/`
+inspiration `/ˌɪnspəˈreɪʃn/`
+
+### Qs2:
+You have reached Blackberry Banks.
+We are here to assist you with all the inquiries you have.
+If your'd like to continue, please give us your name, identification number, and number that we can reach you back.
+You will be led to the next section for more options to choose from after putting in the information.
+
+
+reached `/riːtʃt/`
+assist `/əˈsɪst/`
+inquiries `/ˈɪŋkwəriz/`
+identification `/aɪˌdɛn(t)ɪfɪˈkeɪʃən/`
+
+### Qs3:
+Living room, summer day
+
+2pp, casual clothes, talking to each others
+
+left, woman, sitting with her legs crossed in the chair, writing sth in the notebook placed on her lap, 
+
+man, lying on the light grey sofa,
+
+Bg, potted plan on the table 
+
+### Qs4:
+
+Street, summer day
+
+2 pp, casual clothes, standing front of the car,
+
+right, glasses, holding the open front hood of a car
+
+other, touching the car engine
+
+-> trying to fix the car
+
+Bg, vehicle, bulding, store
+
+hood `/hʊd/`
+engine `/ˈɛn.dʒɪn/`
+
+### Qs5:
+
+What time do you begin your work or school hours, and how long does it ussually last.
+
+8h - 9 hours: I begin my work hours at 8am. My work time usually lasts 9 hours, util 5 pm.
+
+### Qs6:
+Which do you prefer to record down important work? On paper or in electronic device? Why?
+
+I usually record my important work on an electronic device. It's more convenient, and I can access it anywhere.
+
+### Qs7:
+If you could change the starting time of your work or studying, when you want to change it to? Why?
+
+two hours earlier 
+working better in the morning
+Have more free time in the afternoon -> relax, do whatever I like
+
+### Qs 8:
+The company orientation session is being held from 9 to 9:30 am. The speaker is Jenna Clark.
+
+### Qs9:
+Actualy, no. There is a store tour, from 11:30 to noon, that delivered by Ben Hamington. 
+
+delivered `/dɪˈlɪvərd/`
+
+### Qs 10: 
+Yes sure, there are 2 sessions:
+Firstly, From 9:30 to 10:30, There is a Video. It's about research and development.
+Secondly, There is a video from 1:15 to 1:30 pm. It's about Completing test scenarios.
+
+scenarios `/səˈnɛriˌoʊz/`
+
+### Qs11:
+
+If you were to get the same wage, would you prefer to  become a doctor or a researcher?
+
+My choice is to become a doctor for the following reasons:
+
+Firstly, I can help people achieve better health. 
+I would receive a lot of gratitude and respect from patients.
+Secondly, I can expand my relationships with patients and their families. I enjoy building relationships, so being a doctor is a good choice.
+In summary, as a doctor, I will earn the respect of many people.
+
+gratitude `/ˈɡrætɪtjuːd/`
+respect `/rɪˈspɛkt/`
+patients `/ˈpeɪʃənts/`
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Test 2
 > src: [Test 2](https://www.youtube.com/watch?v=5Pdo_fuHfJg&list=PLLfvb_squPvhvzuFQ1XtUCDXJnVSK-hzx&index=2)
 
