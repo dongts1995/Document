@@ -382,5 +382,9 @@ everyone has become closer and collaborates more effectively, thus performance i
 
 `For those reasons, I believe` work becomes more effective if there are such a team leaders.
 
+# Part 2:
+![image](https://github.com/user-attachments/assets/908619ff-2022-4c6a-bbf4-6b3688a4df76)
+
+
 
 
